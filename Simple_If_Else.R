@@ -1,4 +1,4 @@
-input <- 75
+input <- -76
 
 if(input >= 1 & input < 60)
 {
